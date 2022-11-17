@@ -6,13 +6,13 @@
 
 2. Configure SSO
     1. Azure DevOps
-        a. AWS
-        b. Outlook
-        c. GSuite
+        1. AWS
+        2. Outlook
+        3. GSuite
     2. AWS
-        a. AWS
-        b. Outlook
-        c. GSuite
+        1. AWS
+        2. Outlook
+        3. GSuite
     3. Github - enterprise only
 
 3. Configure AWS for multiaccount scenarios
