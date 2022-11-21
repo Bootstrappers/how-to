@@ -1,8 +1,8 @@
 # how-to
 1. Create accounts
-    1. [Create AWS account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/)
-    2. Create Azure DevOps account
-    3. GitHub
+    1. Create a GitHub account
+    2. Create a Azure DevOps account
+    3. [Create AWS account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/)
 
 2. Configure SSO
     1. Azure DevOps
