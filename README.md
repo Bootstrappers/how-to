@@ -19,6 +19,7 @@
        - [ ] Github Actions
        - [ ] AWS
        - [ ] GCP 
+       - [ ] Octopus deploy 
     3. Create a GitHub account
     4. Create a Azure DevOps account
     5. [Create AWS account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/)
