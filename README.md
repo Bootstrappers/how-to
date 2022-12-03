@@ -2,6 +2,8 @@
 1. Create accounts
     1. Which cloud provider are you using?
        - [ ] AWS
+           - [ ] Multi account
+           - [ ] Single account
        - [ ] Azure
        - [ ] GCP
     2. What tool are you using for source control?
